@@ -1,0 +1,6 @@
+metric,200w,250w,300w,step_250_to_300
+prefill_132K_tok_s,3272,4156,4344 / 4322,+4-5 %
+prefill_200K_tok_s,2342 (207K prompt),2996 (207K prompt),3342 / 3272 (199.5K prompt),+10 %
+decode_1024_tokens_s,1.8-8.5 (noisy),6.2 (stable),6.0 / 2.6 / 5.9,no change
+peak_w_gpu0_gpu1,200.7 / 202.0,252.8 / 251.2,299.5 / 299.9,
+max_c_gpu0,82,87,88 (clamp threshold),

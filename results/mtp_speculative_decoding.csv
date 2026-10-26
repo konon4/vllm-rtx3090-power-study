@@ -1,0 +1,4 @@
+mode,decode_131K_t0_tok_s,decode_32K_code_t0_tok_s,agent_probe_29K_t06_10_tok_s,prefill_131K_tok_s
+MTP3,106.9-108.3,79.7-85.1,82-91,2323-2345
+no speculative decoding,50.6-50.7,50.6-52.2,48.2-54.1,2257-2259
+MTP speedup,x2.1,x1.6,x1.6-1.7,x1.03
